@@ -1,6 +1,6 @@
-Prisma &
-Postgres &
-Typescript & 
+Prisma & \
+Postgres & \
+Typescript & \
 Docker
 
 Learning.
